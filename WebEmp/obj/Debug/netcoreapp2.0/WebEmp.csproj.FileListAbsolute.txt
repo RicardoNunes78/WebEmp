@@ -1,0 +1,11 @@
+C:\Apps\WebEmp\WebEmp\bin\Debug\netcoreapp2.0\WebEmp.deps.json
+C:\Apps\WebEmp\WebEmp\bin\Debug\netcoreapp2.0\WebEmp.runtimeconfig.json
+C:\Apps\WebEmp\WebEmp\bin\Debug\netcoreapp2.0\WebEmp.runtimeconfig.dev.json
+C:\Apps\WebEmp\WebEmp\bin\Debug\netcoreapp2.0\WebEmp.dll
+C:\Apps\WebEmp\WebEmp\bin\Debug\netcoreapp2.0\WebEmp.pdb
+C:\Apps\WebEmp\WebEmp\obj\Debug\netcoreapp2.0\WebEmp.csprojAssemblyReference.cache
+C:\Apps\WebEmp\WebEmp\obj\Debug\netcoreapp2.0\WebEmp.csproj.CoreCompileInputs.cache
+C:\Apps\WebEmp\WebEmp\obj\Debug\netcoreapp2.0\WebEmp.AssemblyInfoInputs.cache
+C:\Apps\WebEmp\WebEmp\obj\Debug\netcoreapp2.0\WebEmp.AssemblyInfo.cs
+C:\Apps\WebEmp\WebEmp\obj\Debug\netcoreapp2.0\WebEmp.dll
+C:\Apps\WebEmp\WebEmp\obj\Debug\netcoreapp2.0\WebEmp.pdb
